@@ -1,1 +1,39 @@
 # DrugCNN
+## Overview
+
+
+## Dependencies
+The package depands on the Python==3.10.18:
+```
+dgl==1.1.2+cu118
+dgllife==0.3.2
+numpy==1.23.5
+pandas==2.3.2
+pytorch==2.1.0+cu118
+scikit-learn==1.7.2
+rakit==2025.9.1
+```
+## Datasets
+activating/inhibiting mechanisms
+The dataset employed in this study was initially sourced from the article:"DrugAI: a multi-view deep learning model for predicting drug–target
+activating/inhibiting mechanisms"<br>
+The statistics of dataset are shown below:
+
+| Drug-target actions                         | No.of Samples           | Ratio |
+|---------------------------------------------|-------------------------|----------------|
+| activatory                                  | 3322                    | 29.58%         |
+| inhibitory                                  | 7907                    | 70.42%         |
+
+
+The datasets are stored in ```./data/dataset.csv``` and contains 11229 compounds'SMILES,sequences and labels.<br>
+The file ```./data/index.txt``` contains the index numbers of train, validation, and test sets.<br>
+## Running the Experiment
+To run our model based on the default conditions:
+```bash
+$ python main.py
+```
+The model trained will be stored in ```./output```
+
+
+  
+

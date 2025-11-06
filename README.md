@@ -3,7 +3,7 @@
 
 
 ## Dependencies
-The package depands on the Python==3.10.18:
+The package depends on the Python==3.10.18:
 ```
 dgl==1.1.2+cu118
 dgllife==0.3.2

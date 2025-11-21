@@ -10,7 +10,7 @@ dgllife==0.3.2
 numpy==1.23.5
 pandas==2.3.2
 pytorch==2.1.0+cu118
-scikit-learn==1.7.2
+torch-geometric== 2.6.1
 rakit==2025.9.1
 ```
 ## Datasets

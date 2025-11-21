@@ -1,7 +1,7 @@
 # DrugCNN
 ## Overview
 
-
+![image](./img/end.pdf)
 ## Dependencies
 The package depends on the Python==3.10.18:
 ```

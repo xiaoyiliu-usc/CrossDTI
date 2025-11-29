@@ -34,6 +34,13 @@ $ python main.py
 ```
 The model trained will be stored in ```./output```
 
+## Trained models
+
+The models we trained are stored in https://zenodo.org/records/17760553
+
+
+
+
 
   
 

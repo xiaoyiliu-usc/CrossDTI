@@ -38,9 +38,9 @@ The model trained will be stored in ```./output```
 
 The models we trained are stored in https://zenodo.org/records/17760553
 
-## Dataset
+## Model and Dataset
 
-Please find the dataset at Zenodo link: https://zenodo.org/records/17760553
+Please find the model and dataset at Zenodo link: https://zenodo.org/records/17760553
 
 
 

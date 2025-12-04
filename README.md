@@ -1,7 +1,7 @@
 # CrossDTI
 ## Overview
 
-![image](fig1.pdf)
+![image](fig1.png)
 ## Dependencies
 The package depends on the Python==3.10.18:
 ```

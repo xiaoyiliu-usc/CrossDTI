@@ -1,4 +1,4 @@
-# DrugCNN
+# CrossDTI
 ## Overview
 
 ![image](fig1.pdf)

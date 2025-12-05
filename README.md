@@ -1,4 +1,4 @@
-# CrossDTI
+# HetFuDTI
 ## Overview
 
 ![image](fig1.png)
@@ -36,11 +36,11 @@ The model trained will be stored in ```./output```
 
 ## Trained models
 
-The models we trained are stored in https://zenodo.org/records/17760553
+The models we trained are stored in https://zenodo.org/records/17825425
 
 ## Model and Dataset
 
-Please find the model and dataset at Zenodo link: https://zenodo.org/records/17760553
+Please find the model and dataset at Zenodo link: [(https://zenodo.org/records/17825425)](https://zenodo.org/records/17825425)
 
 
 
